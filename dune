@@ -1,0 +1,16 @@
+(library
+  (name utils)
+  (modules utils)
+)
+
+(executable
+  (name day01)
+  (libraries utils)
+  (modules day01)
+)
+
+(executable
+  (name day02)
+  (libraries utils)
+  (modules day02)
+)
