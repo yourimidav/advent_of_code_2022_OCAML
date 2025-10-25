@@ -1,3 +1,0 @@
-(executable
- (name main)
- (libraries day01 stdlib))
