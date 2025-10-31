@@ -14,3 +14,15 @@
   (libraries utils)
   (modules day02)
 )
+
+(executable
+  (name day03)
+  (libraries utils)
+  (modules day03)
+)
+
+(executable
+  (name day04)
+  (libraries utils)
+  (modules day04)
+)
