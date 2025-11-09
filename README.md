@@ -6,4 +6,9 @@ Repo starter pour faire l’Advent of Code 2022 en OCaml avec Dune.
 
 ```bash
 dune build
-dune exec bin/main.exe
+dune exec ./day01.exe
+dune exec ./day02.exe
+dune exec ./day03.exe
+dune exec ./day04.exe
+dune exec ./day05.exe
+dune exec ./day06.exe

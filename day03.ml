@@ -61,8 +61,6 @@ let rec compare_lines_three_by_three lines sum =
     | _ -> sum
 
 
-        
-
 
 let () =
   let lines = Utils.read_lines "input/day03.txt" in

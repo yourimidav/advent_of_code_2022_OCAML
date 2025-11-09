@@ -26,3 +26,21 @@
   (libraries utils)
   (modules day04)
 )
+
+(executable
+  (name day05)
+  (libraries utils)
+  (modules day05)
+)
+
+(executable
+  (name day06)
+  (libraries utils)
+  (modules day06)
+)
+
+(executable
+  (name day07)
+  (libraries utils)
+  (modules day07)
+)
