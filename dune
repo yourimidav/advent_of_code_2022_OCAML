@@ -44,3 +44,33 @@
   (libraries utils)
   (modules day07)
 )
+
+(executable
+  (name day08)
+  (libraries utils)
+  (modules day08)
+)
+
+(executable
+  (name day09)
+  (libraries utils)
+  (modules day09)
+)
+
+(executable
+  (name day10)
+  (libraries utils)
+  (modules day10)
+)
+
+(executable
+  (name day11)
+  (libraries utils)
+  (modules day11)
+)
+
+(executable
+  (name day12)
+  (libraries utils)
+  (modules day12)
+)
