@@ -110,3 +110,45 @@
   (libraries utils str)
   (modules day18)
 )
+
+(executable
+  (name day19)
+  (libraries utils str)
+  (modules day19)
+)
+
+(executable
+  (name day20)
+  (libraries utils str)
+  (modules day20)
+)
+
+(executable
+  (name day21)
+  (libraries utils str)
+  (modules day21)
+)
+
+(executable
+  (name day22)
+  (libraries utils str)
+  (modules day22)
+)
+
+(executable
+  (name day23)
+  (libraries utils str)
+  (modules day23)
+)
+
+(executable
+  (name day24)
+  (libraries utils str)
+  (modules day24)
+)
+
+(executable
+  (name day25)
+  (libraries utils str)
+  (modules day25)
+)
